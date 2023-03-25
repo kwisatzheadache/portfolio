@@ -1,6 +1,6 @@
 ## portfolio-flask
 
-A little bit about me, using an Unsplash Mashup template. Flask/Gunicorn, hosted in AWS. See it live here: [michaelhorvathdataguy.com](https://www.michaelhorvathdataguy.com).
+A little bit about me, using an Unsplash Mashup template. Flask/Gunicorn, hosted in AWS. See it live here: [michaelhorvathdataguy.com](https://michaelhorvathdataguy.com).
 
 ### Roadmap
 
