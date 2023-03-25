@@ -1,10 +1,7 @@
 ## portfolio-flask
 
-I have developed a portfolio web app using Python/Flask and deployed to Google Cloud Platform. You can view the deployed version at [mkilicarslan.com](https://mkilicarslan.com).
+A little bit about me, using an Unsplash Mashup template. Flask/Gunicorn, hosted in AWS. See it live here: [michaelhorvathdataguy.com](https://www.michaelhorvathdataguy.com).
 
 ### Roadmap
 
-- Update works page with my own projects.
-- Update other pages with correct informations.
-- Use a NoSQL database to store contact form inputs.
-- Create an admin panel.
+- Lots of refactoring to do - lots of repeated code since I through this up in a weekend. 
